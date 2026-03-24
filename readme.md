@@ -82,3 +82,7 @@ python evaluate.py
 - Some CDNs (Cloudflare, Fastly) mask the origin server
 - FTP banners are highly reliable — servers almost always announce themselves
 - HTTPS sites reveal extra info via SSL certificate subject/issuer fields
+
+## License
+
+This project is licensed under the MIT License.
